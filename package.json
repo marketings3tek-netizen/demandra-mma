@@ -1,0 +1,1 @@
+{"name":"demandra","version":"1.0.0","private":true,"description":"Demandra static website","scripts":{"css":"tailwindcss -i src/input.css -o assets/style.css --minify","watch":"tailwindcss -i src/input.css -o assets/style.css --watch","pages":"python3 build.py"},"devDependencies":{"tailwindcss":"^3.4.0"}}
